@@ -11,4 +11,4 @@ intent intent = getIntent(); <br>
         int sum = intent.getIntExtra("Sum",0); //default value 0 <br>
 
         Get the data sent from another activity
-          kjavkjvbjav
+        //bbklsklb
