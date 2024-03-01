@@ -7,7 +7,7 @@ Intent intent = new Intent(MainActivity.this, SecondActivity.class); <br>
 
 
 <H2>To Activity</H2> <br>
-ntent intent = getIntent(); <br>
+intent intent = getIntent(); <br>
         int sum = intent.getIntExtra("Sum",0); //default value 0 <br>
 
         Get the data sent from another activity
